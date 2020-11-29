@@ -1,6 +1,17 @@
 body {
     width: 1200px;
 }
+
+.seccion-1{
+    background-color: rgb(58, 231, 110);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family: Georgia;
+    margin-bottom: 20px;
+   
+}
+
 .header{
     background-color: darkgray;
     
@@ -24,7 +35,6 @@ border: navy 3px solid;
 .contenedor-menu{
     /* background-color: lightblue; */    
     width: 50%;
-
 }
 
 .menu-principal{
