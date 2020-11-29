@@ -88,25 +88,29 @@ footer{
 }    
 
 .noticia{
-    text-align: center;    
+        text-align: justify;
+        margin: 5px;
 }
 
 .noticia1{
-        background-color: rgb(2, 0, 146) ;
-        display: flex  ;
+        background-color: #EAE151;
+        display: flex;
+        text-align: justify;
 }
 .noticia2{
-        background-color: rgb(180, 180, 180);
+        background-color: #EEEFA8;
         display: flex  ;
-        text-align: center;
+        text-align: justify;
 }
 .noticia3{
-        background-color: teal  ;
+        background-color: #EEEFA8;
         display: flex  ;
+        text-align: justify;
 }
 .noticia4{
-        background-color: rgb(13, 161, 0);
+        background-color: #EAE151;
         display: flex  ;
+        text-align: justify;
         text-align: justify;
 }
 
