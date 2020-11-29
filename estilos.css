@@ -38,3 +38,60 @@ body {
 {
     text-align: justify;
 } 
+
+.seccion-1{
+    background-color: rgb(58, 231, 110);
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    font-family: Georgia;
+    margin-bottom: 20px;
+   
+}
+
+.header{
+    background-color: darkgray;
+    
+}
+
+.barra-superior{
+
+display: flex;
+justify-content: center;
+align-items: center;
+border: navy 3px solid;
+}
+
+.titulo-panel{
+    background-color: lightskyblue;
+    width: 50%;
+    text-align: center;
+    color: black;
+}
+
+.contenedor-menu{
+    /* background-color: lightblue; */    
+    width: 50%;
+}
+
+.menu-principal{
+display: flex;
+list-style: none;
+justify-content: space-evenly;
+}
+
+.menu-principal__item > a:hover{
+ font-size: 20px;
+ text-decoration: underline;
+}
+
+.menu-principal__item > a{
+    text-decoration: none; 
+    color: black;
+    font-size: large;
+    font-style: italic;
+    font-weight: 600;
+}
+.baner-imagen{
+    border: navy 3px solid;
+}
