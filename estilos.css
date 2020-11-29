@@ -6,7 +6,7 @@ body {
 }
 
 footer{
-    position: fixed;
+    /* position: fixed; */
     padding: 20px ;
     color: white;
     width    : 100% ;
