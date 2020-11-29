@@ -1,4 +1,32 @@
+
 body {
     width: 1200px;
 }
+
+footer{
+    position: fixed;
+    padding: 20px ;
+    color: white;
+    width    : 100% ;
+    background-image: url(https://www.avanzaentucarrera.com/orientacion/comp/uploads/2017/10/Desarrollador-web-la-especialidad-m%C3%A1s-demandada-2.jpg);
+    background-size: 100%;
+}
+
+
+
+.main-content{
+    display: flex;
+    text-align: justify;
+    
+}
+
+.main-content .box{
+    flex-basis: 50%;
+   
+    
+}
+.box h2{
+    font-weight: 600;
+}
+
 
