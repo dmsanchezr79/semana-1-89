@@ -1,4 +1,38 @@
-body {
+.body {
+    font-family: sans-serif;
     width: 1200px;
 }
+.seccion-3{
 
+    display: flex  ;
+    justify-content: space-evenly;
+    text-align: center;
+
+}    
+
+.noticia{
+    text-align: center;    
+}
+
+.noticia1{
+        background-color: rgb(2, 0, 146) ;
+        display: flex  ;
+}
+.noticia2{
+        background-color: rgb(180, 180, 180);
+        display: flex  ;
+        text-align: center;
+}
+.noticia3{
+        background-color: teal  ;
+        display: flex  ;
+}
+.noticia4{
+        background-color: rgb(13, 161, 0);
+        display: flex  ;
+        text-align: justify;
+        
+
+
+
+}
